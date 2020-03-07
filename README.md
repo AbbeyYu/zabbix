@@ -1,1 +1,1 @@
-# zabbix
+# zabbix-onekey-install 
